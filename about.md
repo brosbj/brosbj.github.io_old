@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+## 이 곳은..
+개발 관련 경험을 남기는 곳이 되려 합니다.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brosbj@gmail.com](mailto:brosbj@gmail.com)
